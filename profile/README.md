@@ -19,8 +19,8 @@ every generation starts from random initialization.
 
 | Version | Params | Architecture | Status |
 |---|---|---|---|
-| [Benzene-0.1-Preview](https://github.com/CollinsLiu615/Benzene-0.1-Stand) | 35.0M | 8 layers × 576 dim, ctx 256, char-level vocab | Archived |
-| [Benzene-0.1-Stand](https://github.com/CollinsLiu615/Benzene-0.1-Stand) | 97.64M | 12 layers × 768 dim, ctx 512, 16K BPE | Archived |
+| [Benzene-0.1-Preview](https://github.com/Benzene-AI-Lab/Benzene-0.1-Stand) | 35.0M | 8 layers × 576 dim, ctx 256, char-level vocab | Archived |
+| [Benzene-0.1-Stand](https://github.com/Benzene-AI-Lab/Benzene-0.1-Stand) | 97.64M | 12 layers × 768 dim, ctx 512, 16K BPE | Archived |
 
 2.1 B tokens pretraining + SFT. Pretraining validation loss 0.8087 (ppl 2.24).
 
@@ -31,7 +31,7 @@ its own playing personality.
 
 | Variant | Chemistry | Role | Params | Status |
 |---|---|---|---|---|
-| [Alkane](https://github.com/CollinsLiu615/Benzene-0.2-Alkane) | Saturated single bonds | Stable baseline | 6.85M | ✅ |
+| [Alkane](https://github.com/Benzene-AI-Lab/Benzene-0.2-Alkane) | Saturated single bonds | Stable baseline | 6.85M | ✅ |
 | Alkene | Reactive double bonds | Deep search | 132.82M | Awaiting data |
 | Alkyne | High-energy triple bonds | Aggressive | derived | Planned |
 | Phenol | Aromatic parent | Strongest | 15.72M | Training |
@@ -71,7 +71,7 @@ non-commercial license keeps the whole series consistent.
 
 <div align="center">
 
-**[Benzene-0.2-Alkane](https://github.com/CollinsLiu615/Benzene-0.2-Alkane)** ·
-[Benzene-0.1-Stand](https://github.com/CollinsLiu615/Benzene-0.1-Stand)
+**[Benzene-0.2-Alkane](https://github.com/Benzene-AI-Lab/Benzene-0.2-Alkane)** ·
+[Benzene-0.1-Stand](https://github.com/Benzene-AI-Lab/Benzene-0.1-Stand)
 
 </div>
