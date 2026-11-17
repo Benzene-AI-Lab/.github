@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile/benzene-icon.png" width="120">
+<img src="benzene-icon.png" width="120">
 
 # Benzene
 
@@ -34,7 +34,7 @@ its own playing personality.
 | [Alkane](https://github.com/Benzene-AI-Lab/Benzene-0.2-Alkane) | Saturated single bonds | Stable baseline | 6.85M | ✅ |
 | Alkene | Reactive double bonds | Deep search | 132.82M | Awaiting data |
 | Alkyne | High-energy triple bonds | Aggressive | derived | Planned |
-| Phenol | Aromatic parent | Strongest | 15.72M | Training |
+| [Phenol](https://github.com/Benzene-AI-Lab/Benzene-0.2-Phenol) | Aromatic parent | Strongest | 15.72M | ✅ |
 
 AlphaZero-style: 19×8×8 board features → ResNet → 4,672-way policy head plus a
 value head, paired with MCTS.
